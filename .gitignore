@@ -1,0 +1,6 @@
+/*.g.dart
+/*.mocks.dart
+/build/
+/ios/
+/android/
+*.lock
